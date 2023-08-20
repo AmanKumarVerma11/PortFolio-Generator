@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio-Generator/static/css/main.e80071df.css",
-    "main.js": "/Portfolio-Generator/static/js/main.fef98611.js",
-    "static/js/787.bf9c4d31.chunk.js": "/Portfolio-Generator/static/js/787.bf9c4d31.chunk.js",
-    "index.html": "/Portfolio-Generator/index.html",
-    "main.e80071df.css.map": "/Portfolio-Generator/static/css/main.e80071df.css.map",
-    "main.fef98611.js.map": "/Portfolio-Generator/static/js/main.fef98611.js.map",
-    "787.bf9c4d31.chunk.js.map": "/Portfolio-Generator/static/js/787.bf9c4d31.chunk.js.map"
+    "main.css": "/PortFolio-Generator/static/css/main.e80071df.css",
+    "main.js": "/PortFolio-Generator/static/js/main.1669f60a.js",
+    "static/js/787.bf9c4d31.chunk.js": "/PortFolio-Generator/static/js/787.bf9c4d31.chunk.js",
+    "index.html": "/PortFolio-Generator/index.html",
+    "main.e80071df.css.map": "/PortFolio-Generator/static/css/main.e80071df.css.map",
+    "main.1669f60a.js.map": "/PortFolio-Generator/static/js/main.1669f60a.js.map",
+    "787.bf9c4d31.chunk.js.map": "/PortFolio-Generator/static/js/787.bf9c4d31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e80071df.css",
-    "static/js/main.fef98611.js"
+    "static/js/main.1669f60a.js"
   ]
 }
